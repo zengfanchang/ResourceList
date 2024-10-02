@@ -49,6 +49,8 @@
 - [rude-java](https://github.com/RudeCrab/rude-java):Java Practice Projects(SSM、Spring Boot、Spring Security、MinIO、Vue). 以Java语言为主的各种项目实践，涵盖各个业务、各个功能，并附上高质量文章讲解，其中一些甚至可以单开一个仓库。让你再也不用寻找各种框架demo、项目脚手架。
 - [grain](https://github.com/dianbaer/grain):grain是一个极简的、组件式的RPC框架，灵活且适合渐进学习，可与任何框架整合。同时包含（系统通用多线程模型与消息通讯 || 多对多关系的分布式锁 || 基于Servlet的HTTP框架 || 基于系统通用多线程模型的Websocket框架 || 支持行级锁的多线程锁 ）等组件，按需选择组件，不绑架开发者。
 - [Day-Day-up](https://github.com/freestylefly/DayDayUp):互联网职场菜鸟的成长之路
+# Javascript
+- [魔方](https://github.com/pengfeiw/rubiks-cube): typescript+three.js实现的动态魔方游戏
 # Go
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin):基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
 - [photoptism](https://github.com/photoprism/photoprism):带 AI 功能的开源私人云相册。该项目是用 Go 语言写的在线私人相册，它稳定、部署方便，支持浏览/备份图片、按地点/时间线浏览照片、移动端自动备份照片，以及人脸识别、图片自动分类等功能，可用来搭建私人相册管理你的照片。
